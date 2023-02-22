@@ -3,7 +3,7 @@
 Here are two assignments of G0R72A Data Visualization in Data Science.
 
 ### Assignment 1
-15 creative designs of a given dataset of energy consumption.
+15 creative designs of a given dataset about energy consumption.
 
 ### Assignment 2
 Ideas of combined designs with other group members.
