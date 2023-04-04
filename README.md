@@ -1,6 +1,6 @@
 # KUL-DV-assignments
 
-Here are two assignments of G0R72A Data Visualization in Data Science.
+Here are two assignments of `G0R72A Data Visualization in Data Science`.
 
 ## Assignment 1
 15 creative designs of a given dataset about energy consumption.
